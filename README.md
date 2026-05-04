@@ -6,7 +6,7 @@ ITPM_Assingment _01
 Automated Testing for Singlish to Sinhala Transliteration System
 
 ##  Repository
-
+https://github.com/suranishehara/IT23218130_ITPM.git
 
 ---
 
